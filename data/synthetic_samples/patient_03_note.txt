@@ -1,0 +1,31 @@
+CLINICAL PROGRESS NOTE & ONCOLOGY CONSULTATION
+Texas Comprehensive Cancer Institute
+Patient Name: Eleanor Rigby-Hughes
+Date of Birth: 1971-11-09 | Age: 54 | Sex: Female
+Medical Record Number (MRN): MRN-3918402 | SSN: 481-90-3329
+Address: 742 Evergreen Terrace, Austin, TX 78701
+Phone: +1-555-881-4923 | Email: erhughes.southwest@medcare.org
+Attending Physician: Dr. Carlos Gutierrez, MD
+Date of Examination: 2026-03-03
+
+CHIEF COMPLAINT & HISTORY:
+54-year-old female with metastatic Stage IV NSCLC with pleural involvement (ICD-10 C34.90).
+Completed Nivolumab monotherapy on 2026-02-06 (only 25 days since completion; trial protocol requires >= 28 days washout window).
+Functional status: ECOG Performance Status is 1.
+
+COMORBIDITIES & SYSTEMIC REVIEW:
+- CNS/Brain: Prior small asymptomatic brain lesion stereotactically radiated 6 months ago, stable without edema.
+- Autoimmune: No active autoimmune disease.
+- Cardiac: Baseline ECG unremarkable.
+
+LABORATORY VALUES (Collected 2026-03-02):
+- eGFR: 51.0 mL/min/1.73m2 (LOINC 33914-3) [Borderline, protocol cutoff >= 50 mL/min]
+- Absolute Neutrophil Count (ANC): 1620 cells/uL (LOINC 26499-4)
+- Platelet count: [UNREPORTED - Lab specimen hemolyzed, repeat pending]
+- Hemoglobin: 10.1 g/dL (LOINC 718-7)
+- Total Bilirubin: 1.2 mg/dL (LOINC 1975-2)
+- ALT: 38 U/L (LOINC 1742-6)
+- AST: 31 U/L (LOINC 1920-8)
+- HbA1c: 6.1% (LOINC 4548-4)
+
+ASSESSMENT: Borderline candidate for ONCO-2026-X. Missing platelet count and narrow washout window (25 days) necessitate coordinator clinical overview.

@@ -1,0 +1,78 @@
+{
+  "patient_id": "PT-SYN-003",
+  "name": "Eleanor Rigby-Hughes",
+  "dob": "1971-11-09",
+  "mrn": "MRN-3918402",
+  "ssn": "481-90-3329",
+  "phone": "+1-555-881-4923",
+  "email": "erhughes.southwest@medcare.org",
+  "address": "742 Evergreen Terrace, Austin, TX 78701",
+  "treating_physician": "Dr. Carlos Gutierrez, MD",
+  "institution": "Texas Comprehensive Cancer Institute",
+  "age": 54,
+  "gender": "Female",
+  "clinical_profile": {
+    "primary_diagnosis": "Metastatic Stage IV NSCLC with pleural involvement",
+    "icd10_code": "C34.90",
+    "snomed_concept_id": "254637007",
+    "ecog_performance_status": 1,
+    "ecog_assessment_date": "2026-03-03",
+    "cns_metastases": false,
+    "cns_status_notes": "Prior small asymptomatic brain lesion stereotactically radiated, stable on repeat MRI",
+    "autoimmune_disease": false,
+    "autoimmune_conditions": [],
+    "cardiac_status": "Normal cardiac function, baseline ECG unremarkable",
+    "history_of_pneumonitis": false,
+    "viral_serologies": {
+      "hiv": "Negative",
+      "hep_b_surface_ag": "Negative",
+      "hep_c_antibody": "Negative"
+    },
+    "prior_systemic_therapies": [
+      {
+        "regimen": "Nivolumab single agent",
+        "completion_date": "2026-02-04",
+        "days_since_completion": 25,
+        "notes": "Washout is 25 days, strictly below 28-day cutoff"
+      }
+    ],
+    "lab_biomarkers": {
+      "eGFR": {
+        "value": 51.0,
+        "unit": "mL/min/1.73m2",
+        "loinc": "33914-3",
+        "notes": "Borderline value: 51 mL/min vs threshold 50 mL/min"
+      },
+      "ANC": {
+        "value": 1620.0,
+        "unit": "cells/uL",
+        "loinc": "26499-4"
+      },
+      "Hemoglobin": {
+        "value": 10.1,
+        "unit": "g/dL",
+        "loinc": "718-7"
+      },
+      "Total_Bilirubin": {
+        "value": 1.2,
+        "unit": "mg/dL",
+        "loinc": "1975-2"
+      },
+      "ALT": {
+        "value": 38.0,
+        "unit": "U/L",
+        "loinc": "1742-6"
+      },
+      "AST": {
+        "value": 31.0,
+        "unit": "U/L",
+        "loinc": "1920-8"
+      },
+      "HbA1c": {
+        "value": 6.1,
+        "unit": "%",
+        "loinc": "4548-4"
+      }
+    }
+  }
+}

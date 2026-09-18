@@ -1,0 +1,33 @@
+CLINICAL PROGRESS NOTE & ONCOLOGY CONSULTATION
+Massachusetts General Oncology Center
+Patient Name: Jonathan Vance
+Date of Birth: 1965-06-14 | Age: 60 | Sex: Male
+Medical Record Number (MRN): MRN-8849201 | SSN: 948-12-8841
+Address: 482 Elmhurst Road, Boston, MA 02115
+Phone: +1-555-382-9104 | Email: jvance.boston@medmail.org
+Attending Physician: Dr. Aris Thorne, MD
+Date of Examination: 2026-03-01
+
+CHIEF COMPLAINT & HISTORY:
+60-year-old male with histologically confirmed Stage IV Non-Small Cell Lung Cancer (NSCLC, ICD-10 C34.90).
+Completed frontline Carboplatin and Pemetrexed chemotherapy on 2026-01-12 (47 days prior to today, compliant with required washout >= 28 days).
+Currently ambulatory and capable of self-care: ECOG Performance Status is 1.
+
+PHYSICAL & SYSTEMIC REVIEW:
+- CNS/Brain: Brain MRI on 2026-02-20 negative for brain metastasis.
+- Autoimmune: No history of rheumatoid arthritis, Crohn's disease, or colitis.
+- Cardiovascular: NYHA Class I, normal sinus rhythm, blood pressure 124/78 mmHg.
+- Pulmonary: No history of pneumonitis or chronic steroid therapy.
+- Serology: HIV negative, Hep B surface antigen negative, Hep C antibody negative.
+
+LABORATORY VALUES (Collected 2026-02-28):
+- eGFR: 68.0 mL/min/1.73m2 (LOINC 33914-3)
+- Absolute Neutrophil Count (ANC): 2800 cells/uL (LOINC 26499-4)
+- Platelets: 215,000 /uL (LOINC 777-3)
+- Hemoglobin: 12.8 g/dL (LOINC 718-7)
+- Total Bilirubin: 0.9 mg/dL (LOINC 1975-2)
+- ALT: 28 U/L (LOINC 1742-6)
+- AST: 22 U/L (LOINC 1920-8)
+- HbA1c: 5.8% (LOINC 4548-4)
+
+PLAN: Screened for clinical trial enrollment ONCO-2026-X.

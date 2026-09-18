@@ -1,0 +1,32 @@
+CLINICAL PROGRESS NOTE & ONCOLOGY CONSULTATION
+Northwestern Memorial Clinical Pavilion
+Patient Name: Marcus A. Sterling
+Date of Birth: 1958-03-22 | Age: 68 | Sex: Male
+Medical Record Number (MRN): MRN-5510294 | SSN: 219-45-7712
+Address: 1290 Oakwood Crest, Chicago, IL 60611
+Phone: +1-555-749-1120 | Email: msterling.midwest@samplehealth.net
+Attending Physician: Dr. Brenda Chen, MD
+Date of Examination: 2026-03-01
+
+CHIEF COMPLAINT & HISTORY:
+68-year-old male with recurrent Stage IV NSCLC adenocarcinoma (ICD-10 C34.90).
+Completed second-line Docetaxel chemotherapy on 2026-01-20 (39 days ago).
+ECOG Performance Status: 2 (patient spends >50% of waking hours in bed/chair due to chronic fatigue).
+
+COMORBIDITIES & SYSTEMIC REVIEW:
+- Gastrointestinal: Active Ulcerative Colitis (ICD-10 K50.90 / SNOMED 40103004) requiring daily Mesalamine oral therapy.
+- CNS/Brain: No intracranial metastases.
+- Cardiovascular: Controlled hypertension, no heart failure.
+- Serologies: Non-reactive HIV, HBV, HCV.
+
+LABORATORY FINDINGS (Collected 2026-02-27):
+- eGFR: 38.0 mL/min/1.73m2 (LOINC 33914-3) - indicating Stage 4 Chronic Kidney Disease.
+- Absolute Neutrophil Count (ANC): 1850 cells/uL (LOINC 26499-4)
+- Platelets: 142,000 /uL (LOINC 777-3)
+- Hemoglobin: 10.4 g/dL (LOINC 718-7)
+- Total Bilirubin: 1.1 mg/dL (LOINC 1975-2)
+- ALT: 34 U/L (LOINC 1742-6)
+- AST: 29 U/L (LOINC 1920-8)
+- HbA1c: 6.4% (LOINC 4548-4)
+
+PLAN: Evaluation for clinical trial ONCO-2026-X.

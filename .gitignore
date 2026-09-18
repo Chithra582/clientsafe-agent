@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases & transient output
+data/*.db
+data/dossiers/*.pdf
+data/dossiers/*.json
+data/uploads/*
+data/aims_events.jsonl
+!data/dossiers/.gitkeep
+!data/uploads/.gitkeep
+
+# Environment variables & local configs
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo

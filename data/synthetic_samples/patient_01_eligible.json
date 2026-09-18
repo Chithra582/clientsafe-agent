@@ -1,0 +1,81 @@
+{
+  "patient_id": "PT-SYN-001",
+  "name": "Jonathan Vance",
+  "dob": "1965-06-14",
+  "mrn": "MRN-8849201",
+  "ssn": "948-12-8841",
+  "phone": "+1-555-382-9104",
+  "email": "jvance.boston@medmail.org",
+  "address": "482 Elmhurst Road, Boston, MA 02115",
+  "treating_physician": "Dr. Aris Thorne, MD",
+  "institution": "Massachusetts General Oncology Center",
+  "age": 60,
+  "gender": "Male",
+  "clinical_profile": {
+    "primary_diagnosis": "Malignant neoplasm of bronchus or lung, Stage IV NSCLC",
+    "icd10_code": "C34.90",
+    "snomed_concept_id": "254637007",
+    "ecog_performance_status": 1,
+    "ecog_assessment_date": "2026-02-28",
+    "cns_metastases": false,
+    "cns_status_notes": "Brain MRI negative for CNS metastasis on 2026-02-20",
+    "autoimmune_disease": false,
+    "autoimmune_conditions": [],
+    "cardiac_status": "Normal sinus rhythm, NYHA Class I, LVEF 60%",
+    "history_of_pneumonitis": false,
+    "viral_serologies": {
+      "hiv": "Negative",
+      "hep_b_surface_ag": "Negative",
+      "hep_c_antibody": "Negative"
+    },
+    "prior_systemic_therapies": [
+      {
+        "regimen": "Carboplatin + Pemetrexed",
+        "completion_date": "2026-01-12",
+        "days_since_completion": 47
+      }
+    ],
+    "lab_biomarkers": {
+      "eGFR": {
+        "value": 68.0,
+        "unit": "mL/min/1.73m2",
+        "loinc": "33914-3"
+      },
+      "ANC": {
+        "value": 2800.0,
+        "unit": "cells/uL",
+        "loinc": "26499-4"
+      },
+      "Platelets": {
+        "value": 215000.0,
+        "unit": "/uL",
+        "loinc": "777-3"
+      },
+      "Hemoglobin": {
+        "value": 12.8,
+        "unit": "g/dL",
+        "loinc": "718-7"
+      },
+      "Total_Bilirubin": {
+        "value": 0.9,
+        "unit": "mg/dL",
+        "loinc": "1975-2"
+      },
+      "ALT": {
+        "value": 28.0,
+        "unit": "U/L",
+        "loinc": "1742-6"
+      },
+      "AST": {
+        "value": 22.0,
+        "unit": "U/L",
+        "loinc": "1920-8"
+      },
+      "HbA1c": {
+        "value": 5.8,
+        "unit": "%",
+        "loinc": "4548-4"
+      }
+    }
+  }
+}

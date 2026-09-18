@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  clinsafe-agent:
+    build: .
+    container_name: clinsafe-agent
+    ports:
+      - "8000:8000"
+    environment:
+      - PORT=8000
+      - HOST=0.0.0.0
+      - LYZR_API_KEY=${LYZR_API_KEY:-}
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY:-}
+      - HITL_WEBHOOK_URL=http://localhost:8000/api/webhook/hitl
+    volumes:
+      - ./data:/app/data
+    restart: unless-stopped

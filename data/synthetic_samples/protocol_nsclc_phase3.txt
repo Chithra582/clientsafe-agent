@@ -1,0 +1,38 @@
+CLINICAL STUDY PROTOCOL: ONCO-2026-X
+Study Title: A Phase 3, Randomized, Double-Blind Study of Investigational Kinase Inhibitor ONC-402 in Combination with Pembrolizumab Versus Pembrolizumab Plus Placebo in Patients with Stage IV Non-Small Cell Lung Cancer (NSCLC)
+Protocol ID: ONCO-2026-X
+IND Number: 148922 | EudraCT: 2026-001294-11
+Sponsor: BioPharma Therapeutics Oncology Development Group
+Date: January 15, 2026 | Version: 3.1
+
+================================================================================
+SECTION 4.1: INCLUSION CRITERIA
+================================================================================
+Patients must meet all of the following inclusion criteria to be eligible for enrollment:
+
+[Page 4]
+INC-1: Age >= 18 years at the time of signing informed consent.
+INC-2: Histologically or cytologically confirmed diagnosis of Stage IV Non-Small Cell Lung Cancer (NSCLC) (ICD-10 C34.90).
+INC-3: ECOG Performance Status score of 0 or 1 documented within 14 days prior to randomization.
+INC-4: Adequate renal function defined as estimated Glomerular Filtration Rate (eGFR) >= 50 mL/min/1.73m2 by CKD-EPI formula (LOINC 33914-3).
+INC-5: Adequate hematologic reserve evidenced by:
+  - Absolute Neutrophil Count (ANC) >= 1500 cells/uL (LOINC 26499-4)
+  - Platelet count >= 100,000 /uL (LOINC 777-3)
+  - Hemoglobin >= 9.0 g/dL (LOINC 718-7)
+INC-6: Adequate hepatic function:
+  - Total Bilirubin <= 1.5 x Upper Limit of Normal (ULN) (LOINC 1975-2)
+  - Alanine aminotransferase (ALT) and Aspartate aminotransferase (AST) <= 2.5 x ULN (LOINC 1742-6, LOINC 1920-8)
+INC-7: Washout period of at least 28 days (>= 28 days) since completion of prior systemic antineoplastic chemotherapy or targeted therapy prior to Day 1 of study treatment.
+
+================================================================================
+SECTION 4.2: EXCLUSION CRITERIA
+================================================================================
+Patients meeting any of the following criteria must be excluded from study participation:
+
+[Page 5]
+EXC-1: Active, untreated, or symptomatic Central Nervous System (CNS) or brain metastases (SNOMED 723188008). Patients with treated, asymptomatic brain metastases are eligible if stable >= 28 days.
+EXC-2: Active autoimmune disease requiring systemic immunosuppressive therapy (e.g., Crohn's disease, ulcerative colitis, rheumatoid arthritis) within the past 2 years (SNOMED 424144002, ICD-10 M05.9, K50.90).
+EXC-3: Unstable cardiac disease, including New York Heart Association (NYHA) Class III or IV congestive heart failure (ICD-10 I50.9) or acute myocardial infarction within 6 months prior to screening.
+EXC-4: Known active human immunodeficiency virus (HIV), active Hepatitis B, or active Hepatitis C infection with detectable viral load.
+EXC-5: History of non-infectious pneumonitis or interstitial lung disease requiring systemic steroids.
+EXC-6: Glycemic decompensation: Glycated Hemoglobin (HbA1c) >= 8.5% (LOINC 4548-4).

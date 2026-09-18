@@ -1,0 +1,14 @@
+code,description,category,risk_level,action_required
+C34.90,"Malignant neoplasm of unspecific part of bronchus or lung",indication,none,primary_study_indication
+I50.9,"Heart failure, unspecified",cardiovascular,high,exclude_if_nyha_class_3_or_4
+I21.9,"Acute myocardial infarction, unspecified",cardiovascular,high,exclude_if_within_6_months
+M05.9,"Rheumatoid arthritis with rheumatoid factor, unspecified",autoimmune,high,absolute_contraindication_immunotherapy
+K50.90,"Crohn's disease, unspecified, without complications",autoimmune,high,absolute_contraindication_immunotherapy
+N18.4,"Chronic kidney disease, stage 4 (severe)",renal,high,exclude_if_egfr_below_50
+N18.5,"Chronic kidney disease, stage 5",renal,critical,absolute_contraindication
+B18.2,"Chronic viral hepatitis C",infectious,medium,requires_viral_load_negative
+B18.1,"Chronic viral hepatitis B without delta-agent",infectious,medium,requires_viral_load_negative
+B20,"Human immunodeficiency virus [HIV] disease",infectious,high,requires_cd4_count_and_undetectable_viral_load
+G93.3,"Postviral fatigue syndrome / encephalopathy",neurological,low,requires_clinical_correlation
+Z92.21,"Personal history of antineoplastic chemotherapy",treatment_history,medium,requires_washout_period_28_days
+Z92.89,"Personal history of other medical treatment",treatment_history,low,review_washout

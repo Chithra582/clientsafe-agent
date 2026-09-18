@@ -1,0 +1,12 @@
+concept_id,term,semantic_tag,contraindication_flag,notes
+254637007,"Non-small cell lung cancer",disorder,0,"Target indication for trial"
+424144002,"Current active autoimmune disease",finding,1,"Absolute exclusion for checkpoint inhibitor"
+233604007,"Pneumonitis",disorder,1,"Exclusion: history of drug-induced or non-infectious pneumonitis"
+64572001,"Condition of heart",disorder,0,"General cardiac disorder"
+84114007,"Heart failure",disorder,1,"Exclusion if NYHA Class III or IV"
+40103004,"Ulcerative colitis",disorder,1,"Active inflammatory bowel disease exclusion"
+723188008,"Brain metastasis present",finding,1,"Exclusion if untreated or symptomatic"
+41684000,"Severe renal impairment",disorder,1,"Exclusion if eGFR < 50 mL/min"
+182888003,"Medication therapy completed",procedure,0,"Prior therapy complete - check washout"
+371041009,"Immunotherapy course",procedure,0,"Check minimum 28 days washout window"
+386661006,"Fever of unknown origin",finding,1,"Active systemic infection exclusion"

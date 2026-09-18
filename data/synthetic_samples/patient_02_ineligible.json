@@ -1,0 +1,89 @@
+{
+  "patient_id": "PT-SYN-002",
+  "name": "Marcus A. Sterling",
+  "dob": "1958-03-22",
+  "mrn": "MRN-5510294",
+  "ssn": "219-45-7712",
+  "phone": "+1-555-749-1120",
+  "email": "msterling.midwest@samplehealth.net",
+  "address": "1290 Oakwood Crest, Chicago, IL 60611",
+  "treating_physician": "Dr. Brenda Chen, MD",
+  "institution": "Northwestern Memorial Clinical Pavilion",
+  "age": 68,
+  "gender": "Male",
+  "clinical_profile": {
+    "primary_diagnosis": "Stage IV NSCLC adenocarcinoma",
+    "icd10_code": "C34.90",
+    "snomed_concept_id": "254637007",
+    "ecog_performance_status": 2,
+    "ecog_assessment_date": "2026-03-01",
+    "cns_metastases": false,
+    "cns_status_notes": "No intracranial lesions on CT",
+    "autoimmune_disease": true,
+    "autoimmune_conditions": [
+      {
+        "condition": "Active Ulcerative Colitis on Mesalamine",
+        "icd10": "K50.90",
+        "snomed": "40103004",
+        "active_flares": true
+      }
+    ],
+    "cardiac_status": "Hypertension, compensated, no heart failure",
+    "history_of_pneumonitis": false,
+    "viral_serologies": {
+      "hiv": "Negative",
+      "hep_b_surface_ag": "Negative",
+      "hep_c_antibody": "Negative"
+    },
+    "prior_systemic_therapies": [
+      {
+        "regimen": "Docetaxel",
+        "completion_date": "2026-01-20",
+        "days_since_completion": 39
+      }
+    ],
+    "lab_biomarkers": {
+      "eGFR": {
+        "value": 38.0,
+        "unit": "mL/min/1.73m2",
+        "loinc": "33914-3",
+        "notes": "CKD Stage 4 renal insufficiency"
+      },
+      "ANC": {
+        "value": 1850.0,
+        "unit": "cells/uL",
+        "loinc": "26499-4"
+      },
+      "Platelets": {
+        "value": 142000.0,
+        "unit": "/uL",
+        "loinc": "777-3"
+      },
+      "Hemoglobin": {
+        "value": 10.4,
+        "unit": "g/dL",
+        "loinc": "718-7"
+      },
+      "Total_Bilirubin": {
+        "value": 1.1,
+        "unit": "mg/dL",
+        "loinc": "1975-2"
+      },
+      "ALT": {
+        "value": 34.0,
+        "unit": "U/L",
+        "loinc": "1742-6"
+      },
+      "AST": {
+        "value": 29.0,
+        "unit": "U/L",
+        "loinc": "1920-8"
+      },
+      "HbA1c": {
+        "value": 6.4,
+        "unit": "%",
+        "loinc": "4548-4"
+      }
+    }
+  }
+}

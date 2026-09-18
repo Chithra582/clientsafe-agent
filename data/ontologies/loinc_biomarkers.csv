@@ -1,0 +1,10 @@
+loinc_num,component,standard_unit,min_reference,max_reference,clinical_significance
+33914-3,eGFR,mL/min/1.73m2,60.0,120.0,"Renal filtration capacity; protocol threshold >= 50"
+4548-4,HbA1c,%,4.0,5.6,"Glycemic status; protocol threshold < 8.5"
+777-3,Platelets,10*3/uL,150.0,450.0,"Hemostatic safety; protocol threshold >= 100"
+26499-4,ANC,cells/uL,1500.0,8000.0,"Absolute Neutrophil Count; protocol threshold >= 1500"
+718-7,Hemoglobin,g/dL,12.0,17.5,"Hematologic adequacy; protocol threshold >= 9.0"
+1975-2,Total Bilirubin,mg/dL,0.1,1.2,"Hepatic function; protocol threshold <= 1.5x ULN (<= 1.8)"
+1742-6,ALT,U/L,7.0,56.0,"Hepatic transaminase; protocol threshold <= 2.5x ULN (<= 140)"
+1920-8,AST,U/L,10.0,40.0,"Hepatic transaminase; protocol threshold <= 2.5x ULN (<= 100)"
+2160-0,Serum Creatinine,mg/dL,0.6,1.2,"Renal function; protocol threshold <= 1.5"
