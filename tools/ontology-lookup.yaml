@@ -1,0 +1,18 @@
+name: ontology-lookup
+description: Cross-reference patient diagnoses and biomarkers against local SNOMED-CT, ICD-10-CM, and LOINC tables.
+input_schema:
+  type: object
+  properties:
+    icd10_codes:
+      type: array
+      items:
+        type: string
+      description: List of ICD-10 codes to check for clinical contraindications.
+    snomed_ids:
+      type: array
+      items:
+        type: string
+      description: List of SNOMED concept identifiers.
+    biomarkers:
+      type: object
+      description: Map of biomarker names to values and LOINC codes.

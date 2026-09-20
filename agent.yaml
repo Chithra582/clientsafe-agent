@@ -1,0 +1,32 @@
+spec_version: "0.1.0"
+name: "clientsafe-agent"
+version: "1.0.0"
+description: "Governed clinical trial patient screening and regulatory audit agent with PHI redaction, deterministic criteria matching, and FDA 21 CFR Part 11 dossiers."
+author: "Chithra"
+license: "MIT"
+
+model:
+  preferred: "claude-3-5-sonnet-20241022"
+  fallback:
+    - "gpt-4o"
+  constraints:
+    temperature: 0.0
+    max_tokens: 4096
+
+skills:
+  - "phi-scrubbing"
+  - "protocol-criteria-extraction"
+  - "deterministic-screening"
+  - "medical-safety-audit"
+  - "fda-dossier-generation"
+
+tools:
+  - "presidio-scrubber"
+  - "deterministic-evaluator"
+  - "ontology-lookup"
+  - "pdf-dossier-compiler"
+
+runtime:
+  max_turns: 10
+  temperature: 0.0
+  timeout: 120

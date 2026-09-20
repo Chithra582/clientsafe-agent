@@ -1,0 +1,11 @@
+name: presidio-scrubber
+description: Redact all 18 HIPAA Safe Harbor identifiers from patient records.
+input_schema:
+  type: object
+  properties:
+    text:
+      type: string
+      description: Raw clinical progress note or unstructured text.
+    patient_dict:
+      type: object
+      description: Structured patient JSON document.

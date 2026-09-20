@@ -1,0 +1,14 @@
+name: deterministic-evaluator
+description: Evaluate patient observed biomarkers against protocol criteria rules using deterministic code logic.
+input_schema:
+  type: object
+  properties:
+    patient_record:
+      type: object
+      description: De-identified patient clinical profile and lab dictionary.
+    criteria_rules:
+      type: array
+      description: List of structured protocol criteria rules.
+  required:
+    - patient_record
+    - criteria_rules

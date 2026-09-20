@@ -1,0 +1,13 @@
+name: pdf-dossier-compiler
+description: Generate FDA 21 CFR Part 11 compliant audit dossiers in PDF and JSON formats with exact protocol citations.
+input_schema:
+  type: object
+  properties:
+    dossier_data:
+      type: object
+      description: Complete structured audit dossier payload.
+    output_path:
+      type: string
+      description: Target file path to write compiled PDF.
+  required:
+    - dossier_data
